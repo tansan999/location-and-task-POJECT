@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import ModalAddTask from "../modal/modalAddTask";
+import ModalAddTask from "../modal/ModalAddTask";
 import { useState } from "react";
 
 // Пример данных задач оддельный компонент

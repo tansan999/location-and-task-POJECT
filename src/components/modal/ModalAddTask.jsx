@@ -1,15 +1,6 @@
 import { createPortal } from "react-dom";
 import { useState } from "react";
-import {
-  ModalOverlay,
-  ModalContent,
-  ModalTitle,
-  Fields,
-  Input,
-  DivButImportance,
-  CancelBtn,
-  AddBtn,
-} from "./ModalCss";
+import { ModalOverlay , ModalContent , ModalTitle , Fields ,  Input , DivButImportance ,CancelBtn ,  AddBtn , } from "./ModalCss";
 
 const modalPortalAddTAsk = document.getElementById("modal");
 
